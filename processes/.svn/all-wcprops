@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cscs540_project/!svn/ver/14/SpartanPMS/processes
+END
+post_lease_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cscs540_project/!svn/ver/39/SpartanPMS/processes/post_lease_search.php
+END
+unsave_property.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cscs540_project/!svn/ver/28/SpartanPMS/processes/unsave_property.php
+END
+save_property.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cscs540_project/!svn/ver/26/SpartanPMS/processes/save_property.php
+END
+post_application_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cscs540_project/!svn/ver/41/SpartanPMS/processes/post_application_search.php
+END
+add_featured_property.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cscs540_project/!svn/ver/28/SpartanPMS/processes/add_featured_property.php
+END
+user_registration.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cscs540_project/!svn/ver/14/SpartanPMS/processes/user_registration.php
+END
+user_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cscs540_project/!svn/ver/14/SpartanPMS/processes/user_login.php
+END
+clear_application_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cscs540_project/!svn/ver/41/SpartanPMS/processes/clear_application_search.php
+END
+geocodeProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cscs540_project/!svn/ver/10/SpartanPMS/processes/geocodeProperties.php
+END
+remove_featured_property.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cscs540_project/!svn/ver/28/SpartanPMS/processes/remove_featured_property.php
+END
+clear_lease_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cscs540_project/!svn/ver/39/SpartanPMS/processes/clear_lease_search.php
+END
+post_property_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cscs540_project/!svn/ver/14/SpartanPMS/processes/post_property_search.php
+END
+save_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cscs540_project/!svn/ver/26/SpartanPMS/processes/save_search.php
+END

@@ -1,0 +1,85 @@
+8
+
+dir
+21
+https://riouxsvn.com/svn/cscs540_project/SpartanPMS/edit
+https://riouxsvn.com/svn/cscs540_project
+
+
+
+2013-11-04T14:22:28.247012Z
+14
+danimal_dan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a0b1785-c716-4da3-be5a-da18a15f7835
+
+addPhotos.php
+file
+22
+
+
+
+2013-11-22T16:11:01.000000Z
+33f3624a2a03e4aa76a51d61d845859e
+2013-11-25T19:59:36.006805Z
+22
+danimal_dan
+
+application.php
+file
+46
+
+
+
+2013-12-06T22:55:29.000000Z
+e77761d8fcd55351e6d32556c3cf2ad0
+2013-12-06T23:44:40.851081Z
+46
+danimal_dan
+
+css
+dir
+
+js
+dir
+
+lease.php
+file
+46
+
+
+
+2013-12-06T23:24:14.000000Z
+d66541680729905bb71d7c5b52008adb
+2013-12-06T23:44:40.851081Z
+46
+danimal_dan
+
+processes
+dir
+
+property.php
+file
+46
+
+
+
+2013-12-06T23:42:29.000000Z
+5fb57f898a79741d70c598a8c1756924
+2013-12-06T23:44:40.851081Z
+46
+danimal_dan
+

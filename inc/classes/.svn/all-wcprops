@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cscs540_project/!svn/ver/21/SpartanPMS/inc/classes
+END
+Authentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/Authentication.php
+END
+SavedProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/SavedProperty.php
+END
+Property.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cscs540_project/!svn/ver/46/SpartanPMS/inc/classes/Property.php
+END
+Department.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/Department.php
+END
+ApplicationSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cscs540_project/!svn/ver/41/SpartanPMS/inc/classes/ApplicationSearch.php
+END
+PropertyApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cscs540_project/!svn/ver/46/SpartanPMS/inc/classes/PropertyApplication.php
+END
+GeocoderClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cscs540_project/!svn/ver/10/SpartanPMS/inc/classes/GeocoderClass.php
+END
+ImageResizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cscs540_project/!svn/ver/22/SpartanPMS/inc/classes/ImageResizer.php
+END
+LeaseSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cscs540_project/!svn/ver/41/SpartanPMS/inc/classes/LeaseSearch.php
+END
+PropertyDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/PropertyDetails.php
+END
+Search.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cscs540_project/!svn/ver/38/SpartanPMS/inc/classes/Search.php
+END
+SavedSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/SavedSearch.php
+END
+PropertyLease.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cscs540_project/!svn/ver/46/SpartanPMS/inc/classes/PropertyLease.php
+END
+FeaturedProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/FeaturedProperty.php
+END
+PropertyCoordinates.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/PropertyCoordinates.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/User.php
+END
+DatabaseItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cscs540_project/!svn/ver/44/SpartanPMS/inc/classes/DatabaseItem.php
+END
+DataValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cscs540_project/!svn/ver/46/SpartanPMS/inc/classes/DataValidation.php
+END
+ApplicationManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cscs540_project/!svn/ver/16/SpartanPMS/inc/classes/ApplicationManager.php
+END
+PropertyImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cscs540_project/!svn/ver/45/SpartanPMS/inc/classes/PropertyImage.php
+END

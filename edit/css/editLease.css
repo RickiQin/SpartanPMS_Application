@@ -1,0 +1,23 @@
+label {
+	width: 100px;
+	display: inline-block;
+	text-align: right;
+}
+
+form[name=application] label {
+	width: 170px;
+}
+
+.add select {
+	font-size: 14px;
+	width: 258px;
+}
+
+.add input {
+	font-size: 14px;
+}
+
+.add1 .date {
+	width: 100px;
+	font-size: 14px;
+}

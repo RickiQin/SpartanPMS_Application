@@ -1,0 +1,236 @@
+
+.searchResultsWrapper, .rightSideWrapper {
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.searchResultsWrapper {
+	width: 622px;
+	min-height: 600px;
+}
+
+.rightSideWrapper {
+	width: 320px;
+	margin: 0 5px;
+	padding-top: 32px;
+}
+
+/*New Codes*/
+.searchcontent{
+	font-family:Gill Sans MT;
+	margin:1% 2% 2% 1%;
+	width:616px;
+}
+
+.searchcontent h1{
+	color:#0f3164;
+	font-size:22.98px;
+	padding:10px 0 0 20px;
+}
+
+.search{
+	margin-left:2%;
+}
+
+.searchs{
+	background:#13398e;
+}
+
+.searchs h2{
+	padding:3px 0 3px 380px;
+	color:#ffffff;
+	font-size:18px;
+	font-weight:normal;
+}
+
+.searchr{
+	border:solid #cbcbcb;
+	border-width:0 1px 1px 1px;
+}
+
+.searchr table{
+	height:97px;
+	border-collapse:collapse;
+}
+
+.marker{
+	padding-top:10px;
+	padding-right:10px;
+}
+
+.srdescri li{
+	width:262px;
+	padding-left:10px;
+	font-size:16px;
+	line-height:1em;
+	margin-bottom:20px;
+}
+
+li.sradd{
+	padding-top:15px;
+	width:258px;
+}
+
+li.sradd a {
+	color: #0E3979;
+}
+
+.srright{
+	width:162px;
+	text-align:center;
+	line-height:0.5em;
+	padding-top:10px;
+}
+
+.srright .srprice{
+	font-size:2em;
+	margin-bottom:20px;
+}
+
+.srright .srnum{
+	font-size:1.2em;
+	margin-bottom:20px;
+}
+
+.floatleft{
+	float:left;
+	margin-left:400px;
+}
+
+.googlemap{
+	margin: 165px 68%;
+	width:278px;
+	height:145px;
+	background:#e8e8e8;
+}
+
+.adminadd{
+	display:inline;
+	margin-left:40%;
+}
+/*New Codes*/
+
+/************	OVERWRITE FOR SMALLER SEARCH BOX ********************/
+
+
+.rightSideWrapper .searchForm {
+	width: 310px;
+	height: 290px;
+	display: block;
+	float: none;
+}
+
+.rightSideWrapper .searchForm input[type=text], .rightSideWrapper .searchForm select {
+	font-size: 14px;
+	height: 25px;
+}
+
+.rightSideWrapper .searchForm label {
+	font-size: 18px;
+}
+
+.rightSideWrapper .searchForm .mainsearch input {
+	width: 250px;
+	margin-right: 10px;
+}
+
+.rightSideWrapper .searchForm .subsearch input[type=text], .rightSideWrapper .searchForm .subsearch select {
+	width: 50px;
+}
+
+.rightSideWrapper .searchForm .submitsearch .btn {
+	width: 198px;
+	height: 30px;
+}
+
+.rightSideWrapper .searchForm .subsearch {
+	margin: 10px 25px;
+}
+
+.rightSideWrapper .mapContainer {
+	width: 310px;
+	height: 310px;
+	display: block;
+	position: relative;
+}
+
+.rightSideWrapper #map-canvas {
+	width: 300px;
+	margin: 5px;
+	height: 300px;
+	border: 5px solid #13398E;
+	display: block;
+	position: relative;
+}
+
+.pagination {
+	width: 100%;
+	display: block;
+	text-align: center;
+	overflow: hidden;
+	background: #CCC;
+	color: #555;
+}
+
+.pagination ul {
+	position: relative;
+	float: none;
+	overflow: hidden;
+	margin: 5px auto;
+	display: inline-block;
+}
+
+.pagination ul li {
+	display: inline-block;
+}
+
+#pagination-clean li {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	list-style: none;
+	float: left;
+}
+
+#pagination-clean li, #pagination-clean a {
+	margin-right: 2px;
+}
+
+#pagination-clean .previous-off, #pagination-clean .next-off {
+	color: #888888 display :block;
+	float: left;
+	font-weight: bold;
+	padding: 3px 4px;
+}
+
+#pagination-clean .next a, #pagination-clean .previous a {
+	font-weight: bold;
+}
+
+#pagination-clean .active {
+	color: #00000 font-weight :bold;
+	display: block;
+	float: left;
+	padding: 3px 6px;
+}
+
+#pagination-clean a:link, #pagination-clean a:visited {
+	color: #0033CC; 
+	display: block;
+	float: left;
+	padding: 3px 6px;
+	text-decoration: none;
+}
+
+#pagination-clean a:hover {
+	text-decoration: none;
+}
+
+.noResultsFound {
+	text-align: center;
+	padding: 15px;
+}

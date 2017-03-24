@@ -1,0 +1,479 @@
+*{ margin:0; padding:0; }
+html{ overflow-x:hidden }
+
+BODY {
+	background:url("/image/Layer-3.jpg") no-repeat;
+	background-size:cover;
+	font-family:STIXGeneral;
+	font-weight:normal;
+	width:100%;
+}
+
+ul {
+	border:0;
+	font-size:100%;
+	margin:0;
+	outline:0;
+	padding:0;
+	list-style:none;
+}
+li {
+	list-style:none;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.main {
+	width: 956px;
+	border: 2px solid #252525;
+	border-width: 0 2px;
+	position:relative;
+	margin: 0 auto;
+	background: rgba(255,255,255,.9);
+	overflow: hidden;
+}
+
+.sphead {
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+.sphead img {
+	float: left;
+	margin: 2% 4%;
+}
+
+.loginframe {
+	border:0;
+	float:right;
+	margin-top:-2px;
+	margin-right: 10px;
+	width:114px;
+	height:41px;
+	background:url("/image/loginbg.png") no-repeat;
+}
+
+.loginframe h1 {
+	color:#ffffff;
+	font-family:STIXGeneral;
+	font-size:16px;
+	padding-top:7px;
+	padding-left:25%;
+}
+
+/****************************	NAVIGATION		***********************/
+
+.navi {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.navi a {
+	text-align:center;
+	font-family:STIXGeneral;
+	font-weight:bold;
+    float:left;
+	background:url("/image/navibg.png")no-repeat;
+	padding:10px 0 0 0;
+}
+
+.navi .naviPublic a {
+	color:#353535;
+	width:170px;
+	margin-left:340px;
+}
+
+.navi .naviPublic a {
+	color:#353535;
+	width:170px;
+	margin-left:340px;
+}
+
+.navi .naviUserS a{
+	color:#353535;
+	width:170px;
+	margin-left:-170px;
+}
+
+.navi .naviUserP a{
+	color:#353535;
+	width:170px;
+	background-position:-185px 0;
+}
+
+.navi .naviMP a {
+	color:#353535;
+	width: 170px;
+	margin-left:-340px;
+	background-position:0 0;
+}
+
+.navi .naviML a {
+	width: 170px;
+	color:#353535;
+	margin-left:-170px;
+	background-position:-185px 0;
+}
+
+.navi .naviMR a{
+	color:#353535;
+	width: 170px;
+	background-position:-398px 0;
+}
+
+.navi li a:hover {
+	text-decoration: none;
+}
+
+.navi .naviPublic a:hover{
+	color:#ffffff;
+	width:170px;
+	margin-left:340px;
+	background-position:0 -40px;
+}
+
+.navi .naviUserS a:hover{
+	color:#ffffff;
+	background-position:0 -40px;
+}
+
+.navi .naviUserP a:hover{
+	color:#ffffff;
+	background-position:-187px -40px;
+}
+
+.navi .naviMP a:hover{
+	color:#ffffff;
+	background-position:0 -40px;
+}
+
+.navi .naviML a:hover{
+	color:#ffffff;
+	background-position:-187px -40px;
+}
+
+.navi .naviMR a:hover{
+	color:#ffffff;
+	background-position:-398px -40px;
+}
+
+.navi1{
+	display: block;
+	overflow: hidden;
+}
+
+.navi1{
+	background: #0a2562;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b4f9c', endColorstr='#0e3979'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#1b4f9c), to(#0e3979)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #1b4f9c,  #0e3979); /* for firefox 3.6+ */
+}
+
+.navi1 a {
+	color:#ffffff;
+	text-align:center;
+	font-family:STIXGeneral;
+	font-weight:bold;
+    float:left;
+	margin-left:20px;
+	padding:8px 20px 8px 50px;
+}
+
+.contentWrapper {
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	margin: 10px 0;
+	min-height: 500px;
+}
+
+/*************************** 	SEARCH FORM		**********************/
+
+.searchForm {
+	margin: 10px 2%;
+	width:362px;
+	background:#e8e8e8;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px; /* future proofing */
+	-khtml-border-radius: 7px; /* for old Konqueror browsers */
+	float: left;
+}
+
+.searchForm h1, h2, h3, h4 {
+    color: #0F3164;
+    font-family: Gill Sans MT;
+    font-size: 22.98px;
+    padding: 10px;
+}
+
+.searchForm li {
+	display: block;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.searchForm label {
+	font-family:Gill Sans MT;
+	color:#0f3164;
+	font-size:22.98px;
+}
+
+.mainsearch input[type=text] {
+	border: 2px solid #434343;
+	outline: none;
+	color: #444;
+	width: 312px;
+	height: 31px;
+	font-size: 18px;
+	line-height:30px;
+	padding-left:20px;
+	background:#ffffff;
+}
+
+.mainsearch input[type=text]:focus{
+	border:solid 2px #434343;
+}
+
+.border_radius {
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px; /* future proofing */
+	-khtml-border-radius: 7px; /* for old Konqueror browsers */
+}
+
+.searchForm .subsearch {
+	margin: 20px 25px;
+	text-align: right;
+}
+
+.subsearch label {
+	margin: 0 5px;
+}
+
+.subsearch .txt {
+	border: 2px solid #434343;
+	outline: none;
+	color: #444;
+	width: 85px;
+	height: 31px;
+	font-size: 18px;
+	line-height:30px;
+	padding-left:15px;
+	background:#ffffff;
+}
+
+.subsearch span {
+	position:absolute;
+	float:left;
+	line-height:30px;
+	left:95px;
+	color: #6c6c6c;
+	cursor:text;
+}
+
+.searchForm .checkbox {
+	text-align: center;
+	margin: 5px;
+}
+
+.checkbox input[type=checkbox] {
+	display: inline-block;
+	margin: 5px;
+}
+
+.checkbox label {
+	font-size: 12pt;
+	display: inline-block;
+}
+
+.subsearch select {
+	border: 2px solid #434343;
+	outline: none;
+	color: #444;
+	width: 104px;
+	height: 31px;
+	font-size: 18px;
+	line-height:30px;
+	padding: 2px 8px;
+	background:#ffffff;
+}
+
+.submitsearch .btn {
+	margin: 10px;
+	width: 264px;
+	height: 40px;
+	cursor:pointer;
+}
+
+.picshow {
+	float:left;
+	margin: 10px;
+	border: 10px solid #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+	filter: progid:DXImageTransform.Microsoft.Shadow(Color=#888888, Strength=4, Direction=0),
+     progid:DXImageTransform.Microsoft.Shadow(Color=#888888, Strength=4, Direction=90),
+     progid:DXImageTransform.Microsoft.Shadow(Color=#888888, Strength=4, Direction=180),
+     progid:DXImageTransform.Microsoft.Shadow(Color=#888888, Strength=4, Direction=270);
+	
+}
+
+.addp {
+	padding-top:50px;
+	margin-left:280px;
+	padding-bottom:50px;
+	clear: both;
+}
+
+/***********************	FOOTER		************************/
+
+.foot {
+	background:rgba(25,25,25,.15);
+	width: 100%;
+	height:76px;
+	margin-top:20px;
+	text-align: center;
+	clear: both;
+}
+
+.foot p {
+	font-size: 12pt;
+}
+
+.foot ul {
+	margin: 5px;
+}
+
+.foot ul li {
+	padding: 0 10px;
+	margin: 10px 0;
+	display: inline-block;
+	border-right: 1px solid #252525;
+	text-align: center;
+}
+
+.foot ul li:last-child {
+	border-right: 0;
+}
+
+.foot ul li a {
+	color: #252525;
+}
+
+/**************************************** B POPUP STYLE ***********************************/
+
+.bPopup {
+	background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 25px 5px #999999;
+    color: #111111;
+    display: none;
+    width: 450px;
+    padding: 25px;
+}
+
+.bPopup .button.b-close {
+	border-radius: 7px 7px 7px 7px;
+    box-shadow: none;
+    font: bold 131% sans-serif;
+    padding: 3px 6px 2px;
+    position: absolute;
+    right: -7px;
+    top: -7px;
+}
+
+.bPopup .button {
+	background-color: #2B91AF;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bPopup .button:hover {
+	background-color: #1E1E1E;
+}
+
+#processingOverlay {
+	text-align: center;
+	font-size: 14px;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+/*New for ContactUs page*/
+.pbdetail{
+	margin-top:-5px;
+	font-family: Gill Sans MT;
+	font-size:18px;
+	color:#000000;
+}
+
+.pbdetail textarea{
+	padding:10px;
+}
+
+li.typename {
+	text-align: left;
+	padding: 5px;
+	font-family: Gill Sans MT, Verdana, sans-serif;
+}
+
+li.typename span {
+	width: 100px;
+	display: inline-block;
+}
+
+li.typename input {
+	padding: 5px;
+}
+
+li.typename input[readonly] {
+	color: #858585;
+}
+
+p.contact {
+	font-family: Verdana;
+	padding: 10px;
+}
+
+
+.aboutWrapper {
+	padding: 10px;
+	font-family: Verdana;
+	min-height: 500px;
+}
+
+.aboutWrapper .abtitle{
+	color: #0F3164;
+    font-family: Gill Sans MT;
+    font-size: 22.98px;
+}
+
+.aboutWrapper p {
+	margin: 10px 0;
+}
+
+.ourdetail{
+	font-family: Gill Sans MT;
+	font-size:18px;
+	color:#000000;
+	padding: 5px 10px 5px 10px;
+}

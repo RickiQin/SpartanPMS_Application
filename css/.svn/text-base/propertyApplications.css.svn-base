@@ -1,0 +1,137 @@
+.searchs1 .searchs2{
+	padding-left:50px;
+	float:left;
+}
+
+.adminadd{
+	display:inline;
+	margin-left:25%;
+}
+
+
+.searchcontent h1{
+	color:#0f3164;
+	font-size:22.98px;
+	padding:10px 0 0 20px;
+}
+
+.searchs1 .searchs3{
+	padding-left:70px;
+	float:left;
+}
+
+.searchr1 {
+	padding: 0;
+	border:solid #cbcbcb;
+	border-width:0 1px 1px 1px;
+	margin: 10px 0;
+}
+.searchr1 table{
+	border-collapse:collapse;
+	background: #FFF;
+}
+
+.searchr1 table tr th {
+	padding: 5px 0;
+	color: #FFF;
+	background: #13398E;
+}
+
+.searchr1 table tr:nth-child(n+1):nth-child(odd) {
+	background: rgba(25,25,25,.1);
+}
+
+.searchr1 table tr td {
+	text-align: center;
+	padding: 5px;
+	vertical-align: middle;
+}
+
+.searchr1 table tr td:first-child {
+	text-align: left;
+}
+
+.searchr1 table tr td:last-child {
+	text-align: right;
+}
+
+.searchr1 table tr td.noResultsFound {
+	padding: 15px;
+	text-align: center;
+}
+
+.sradd1{
+	width:171px;
+}
+
+.sradd1 a {
+	color:#0E3979;
+}
+
+.srrenters {
+	width:133px;
+}
+
+.srrenters li{
+	font-size:16px;
+}
+
+.srent {
+	width: 75px;
+}
+
+.sraddress {
+	width: 125px;
+}
+
+.srdate {
+	width: 75px;
+}
+
+.sragent{
+	width:120px;
+}
+
+.srterm{
+	width:100px;
+}
+
+.srprice1{
+	width: 58px;
+}
+
+.inputrenter label {
+	margin: 0 5px ;
+}
+
+.inputrenter .txt{
+	border: 2px solid #434343;
+	outline: none;
+	color: #444;
+	width: 110px;
+	height: 23px;
+	font-size: 14px;
+	line-height:20px;
+	padding-left:10px;
+	background:#ffffff;
+}
+
+.inputagent label {
+	margin: 0 10px ;
+}
+
+.inputagent .txt{
+	border: 2px solid #434343;
+	outline: none;
+	color: #444;
+	width: 110px;
+	height: 23px;
+	font-size: 14px;
+	line-height:20px;
+	padding-left:10px;
+	background:#ffffff;
+}
+
+.datepicker {
+	width: 100px;
+}

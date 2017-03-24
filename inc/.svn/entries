@@ -1,0 +1,58 @@
+8
+
+dir
+21
+https://riouxsvn.com/svn/cscs540_project/SpartanPMS/inc
+https://riouxsvn.com/svn/cscs540_project
+
+
+
+2013-11-24T16:17:27.718139Z
+21
+bStone92
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a0b1785-c716-4da3-be5a-da18a15f7835
+
+SiteBuilderClass.php
+file
+
+
+
+
+2013-11-03T19:48:05.000000Z
+b22fc4ed8531779b3b8eaa71e7902a10
+2013-11-03T20:35:55.389763Z
+11
+danimal_dan
+
+all.inc
+file
+
+
+
+
+2013-11-03T22:12:47.000000Z
+89b3dc1eaf946947c32e083c90d93d36
+2013-11-04T14:22:28.247012Z
+14
+danimal_dan
+
+classes
+dir
+
+html
+dir
+
